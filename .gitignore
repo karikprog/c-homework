@@ -68,3 +68,4 @@ cmake_install.cmake
 Makefile
 install_manifest.txt 
 compile_commands.json
+.cache
